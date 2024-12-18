@@ -1,6 +1,3 @@
-
-markdown
-Copy code
 # Mastering Time Management  
 
 1. 📝 **Plan your day.** 
